@@ -1,5 +1,5 @@
 # MachineLearning_notebook
-This is a machine learning summary note, a total of 4 major themes, 35 subsections.Just for learn as rookie.
+This is a machine learning summary note, a total of 4 major themes, 35 subsections. Just for learn as rookie.
 
 
 ## 快速学习
